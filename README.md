@@ -58,7 +58,7 @@ https://creativecommons.org/licenses/by/4.0/legalcode
 ```
 この作品は、Wizards of the Coast LLCによるSystem Reference Document 5.2の日本語翻訳を含んでいます。
 原文: https://dnd.wizards.com/resources/systems-reference-document
-翻訳: [このリポジトリのURL]
+翻訳: https://github.com/Riti0208/dnd-5e-srd-japanese
 CC-BY-4.0ライセンス: https://creativecommons.org/licenses/by/4.0/legalcode
 ```
 
